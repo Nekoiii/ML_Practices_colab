@@ -1,1 +1,1 @@
-# Machine Learning Practices using colab
+# Machine Learning Practices Using Colab
