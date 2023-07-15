@@ -1,1 +1,1 @@
-# Pytorch_Practices
+# Machine Learning Practices using colab
